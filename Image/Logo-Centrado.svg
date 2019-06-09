@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <radialGradient cx="0.490906" cy="1" gradientTransform="translate(0.08836303710937497,0) scale(0.8200000000000001,1)" id="svg_44" r="1.226602" spreadMethod="pad">
+   <stop offset="0.365906" stop-color="#4c304c"/>
+   <stop offset="0.822937" stop-color="#b3cfb3"/>
+   <stop offset="1" stop-color="#b3cfb3"/>
+   <stop offset="1" stop-color="#b3cfb3"/>
+  </radialGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_11"/>
+  <line fill="none" id="svg_16" stroke="#969191" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" transform="rotate(90 320 240)" x1="170" x2="470" y1="240" y2="240"/>
+  <line fill="none" id="svg_17" stroke="#969191" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" transform="rotate(30 320 240)" x1="170" x2="470" y1="240" y2="240"/>
+  <line fill="none" id="svg_18" stroke="#969191" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" transform="rotate(150 320 240)" x1="170" x2="470" y1="240" y2="240"/>
+  <path d="m220,298l100,-175l100,175l-200,0z" fill="none" id="svg_19" stroke="#969191" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5"/>
+  <ellipse cx="320" cy="239" fill="url(#svg_44)" id="svg_6" rx="50" ry="75" stroke="#935151" stroke-linecap="square" stroke-linejoin="round" stroke-width="0"/>
+  <text fill="#000000" font-family="Cursive" font-size="35" font-style="normal" font-weight="bold" id="svg_25" opacity="0.36" stroke="#935151" stroke-dasharray="null" stroke-linecap="square" stroke-linejoin="round" stroke-width="0" text-anchor="middle" transform="matrix(1.37035 0 0 1 -182.606 0)" x="450" xml:space="preserve" y="220">gb</text>
+  <text fill="#000000" font-family="Sans-serif" font-size="24" font-style="normal" font-weight="normal" id="svg_26" opacity="0.36" stroke="#935151" stroke-dasharray="null" stroke-linecap="square" stroke-linejoin="round" stroke-width="0" text-anchor="middle" transform="matrix(1.37035 0 0 1 -182.606 0)" x="483.706485" xml:space="preserve" y="260.5">Ingeniería</text>
+ </g>
+</svg>
